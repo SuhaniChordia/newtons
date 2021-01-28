@@ -1,3 +1,3 @@
 # MatterJSBoilerPlate
 MatterJSBoilerPlate
-https://cvishalkhanna.github.io/newtons-/
+https://suhanichordia.github.io/newtons/
